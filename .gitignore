@@ -1,0 +1,51 @@
+# =========================
+# Unity - Archivos generados
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+sysinfo.txt
+
+# Cache de paquetes (se regenera con manifest.json)
+[Pp]ackage[Cc]ache/
+
+# =========================
+# Unity - Archivos de build
+# =========================
+*.apk
+*.aab
+*.app
+*.exe
+*.xcodeproj
+*.xcworkspace
+*.vs/
+*.sln
+*.csproj
+
+# =========================
+# Archivos grandes de Vuforia
+# =========================
+*.tgz
+Assets/Editor/Migration/
+
+# =========================
+# Archivos de IDE (Visual Studio / Rider)
+# =========================
+.vscode/
+.idea/
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.userprefs
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
